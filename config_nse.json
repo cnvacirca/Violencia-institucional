@@ -1,0 +1,80 @@
+{
+  "pesos": { 
+    "educacion": 0.35, 
+    "trabajo": 0.45, 
+    "ocupacion": 0.15, 
+    "barrio": 0.05 
+  },
+  "puntajes_barrio": {
+    "caba": 4,
+
+    "comuna 1": 4,
+    "comuna 2": 5,
+    "comuna 3": 4,
+    "comuna 4": 2,
+    "comuna 5": 4,
+    "comuna 6": 5,
+    "comuna 7": 4,
+    "comuna 8": 2,
+    "comuna 9": 3,
+    "comuna 10": 4,
+    "comuna 11": 4,
+    "comuna 12": 5,
+    "comuna 13": 5,
+    "comuna 14": 5,
+    "comuna 15": 4,
+
+    "almirante brown": 3,
+    "avellaneda": 3,
+    "berazategui": 3,
+    "ezeiza": 3,
+    "esteban echeverria": 3,
+    "florencio varela": 2,
+    "hurlingham": 3,
+    "ituzaingo": 3,
+    "jose c paz": 1,
+    "la matanza": 2,
+    "lanus": 3,
+    "lomas de zamora": 3,
+    "malvinas argentinas": 2,
+    "merlo": 2,
+    "moreno": 2,
+    "moron": 3,
+    "quilmes": 3,
+    "san fernando": 4,
+    "san isidro": 5,
+    "san martin": 3,
+    "san miguel": 3,
+    "tigre": 4,
+    "tres de febrero": 3,
+    "vicente lopez": 5,
+
+    "otro": 3
+  },
+  "puntajes_ocupacion": {
+    "Ocupado": 3,
+    "Estudiante": 1,
+    "Jubilado/a": 2,
+    "Desocupado": 0,
+    "No aplica / no corresponde": 0
+  },
+  "puntajes_trabajo": {
+    "Relación de Dependencia": 1,
+    "Trabajador Independiente": 2,
+    "No corresponde": 0,
+    "Empleador": 3
+  },
+  "puntajes_educacion": {
+    "Sin instruccion formal": 0,
+    "Primario incompleto": 1,
+    "Primario completo": 2,
+    "Secundario incompleto": 3,
+    "Secundario completo": 4,
+    "Terciario incompleto": 5,
+    "Terciario completo": 6,
+    "Universitario incompleto": 7,
+    "Universitario completo": 8,
+    "Postgrado incompleto": 9,
+    "Postgrado completo": 10
+  }
+}
